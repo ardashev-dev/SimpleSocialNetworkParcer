@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="VkNet" Version="1.63.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="NDesk.Options">
+      <HintPath>..\..\..\rx-util-importdata\src\ImportData\bin\Debug\NDesk.Options.dll</HintPath>
+    </Reference>
+    <Reference Include="Secret">
+      <HintPath>..\..\Secret\Secret\bin\Debug\netcoreapp3.1\Secret.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
