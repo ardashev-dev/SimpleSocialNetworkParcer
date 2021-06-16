@@ -35,4 +35,4 @@ DEV\SimpleSocialNetworkParser\SimpleSocialNetworkParser\SimpleSocialNetworkParse
 
 Вызвается при запуске приложения без параметра, либо с параметром -h.
 
-Раюотает как в ОС Windows, так и в Linux (.net core 3.1).
+Работает как в ОС Windows, так и в Linux (.net core 3.1).
