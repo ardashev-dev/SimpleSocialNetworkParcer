@@ -18,7 +18,7 @@
 Пример использования:
 DEV\SimpleSocialNetworkParser\SimpleSocialNetworkParser\SimpleSocialNetworkParser\bin\Debug\netcoreapp3.1>SimpleSocialNetworkParser.exe -n vk -a get -q "#indiegame" -s "2021-06-14" -e "2021-06-16" -x csv
 
-Результат будет записан в теукщую папку в файл формата csv.
+Результат будет записан в текущую папку в файл формата csv.
 
 Решение реализовано с точками расширения функциональности.
 
