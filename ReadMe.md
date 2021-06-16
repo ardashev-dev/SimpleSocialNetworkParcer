@@ -11,7 +11,7 @@
 3. Соберите библиотеку. Библиотеку необходимо подключить в проекте SimpleSocialNetworkParser.
 Храним таким образом, чтобы нельзя было прочитать токен. Он будет внутри библиотеки.
 
-## Сохраняет токен в библиотеке Secret
+## Сборка инструмента
 Соберите проект SimpleSocialNetworkParser\SimpleSocialNetworkParser\SimpleSocialNetworkParser.sln
 Решение готово к использованию.
 
