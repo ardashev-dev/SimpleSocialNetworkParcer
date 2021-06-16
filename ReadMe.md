@@ -21,3 +21,18 @@ DEV\SimpleSocialNetworkParser\SimpleSocialNetworkParser\SimpleSocialNetworkParse
 Результат будет записан в теукщую папку в файл формата csv.
 
 Решение реализовано с точками расширения функциональности.
+
+Также есть справка
+
+  -n, --network=VALUE        Тип социальной сети. vk
+  -a, --action=VALUE         Действие. Get или Send
+  -q, --query=VALUE          Запрос поиска. Если надо найти сообщения по
+                               хештегу, то указать хештеги со знаком #
+  -s, --startDate=VALUE      Дата начала поиска в формате yyyy-MM-dd.
+  -e, --endDate=VALUE        Конечная дата поиска в формате yyyy-MM-dd.
+  -x, --exportVariant=VALUE  Вариант экспорта данных. csv
+  -h, --help                 Показать справку.
+
+Вызвается при запуске приложения без параметра, либо с параметром -h.
+
+Раюотает как в ОС Windows, так и в Linux.
